@@ -1,7 +1,7 @@
-.elementOcult {
+.elementOcultIBB {
     display: none;
   }
   
-  .elementVisible {
+  .elementVisibleIBB {
     display: flex;
   }
