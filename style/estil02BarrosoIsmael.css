@@ -5,3 +5,9 @@
   .elementVisibleIBB {
     display: flex;
   }
+
+  .boto.actiu{
+
+    flex: 50%;
+
+  }
